@@ -1,0 +1,26 @@
+{
+  "name": "rsync-dependencies",
+  "version": "0.0.0",
+  "description": "rsync-dependencies",
+  "main": "rsync-dependencies",
+  "bin": {
+    "rsync-dependencies": "./rsync-dependencies.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/truongsinh/rsync-dependencies.git"
+  },
+  "keywords": [
+    "rsync",
+    "dependencies"
+  ],
+  "author": "TruongSinh Tran-Nguyen <i@truongsinh.pro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truongsinh/rsync-dependencies/issues"
+  },
+  "homepage": "https://github.com/truongsinh/rsync-dependencies"
+}
